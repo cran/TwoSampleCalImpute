@@ -1,0 +1,25 @@
+Package: TwoSampleCalImpute
+Type: Package
+Title: Two-Sample Calibrated Imputation for Survey Data
+Version: 0.1.0
+Authors@R: person("Samuel Joel Kamun", email = "samuelkamun@gmail.com", role = c("aut", "cre"))
+Description: Provides utilities for preparing, validating, summarising, and
+    documenting survey data from primary and auxiliary samples, and for
+    specifying and checking survey-design information. The package supports
+    data-management and design-specification steps in two-sample calibrated
+    imputation workflows. For background on survey calibration, see Deville
+    and Särndal (1992) <doi:10.1080/01621459.1992.10475217>.
+Depends: R (>= 4.3.0)
+License: GPL (>= 3)
+Encoding: UTF-8
+Config/roxygen2/version: 8.1.0
+Suggests: covr, devtools, pkgdown, rcmdcheck, roxygen2, testthat,
+        usethis
+URL: https://github.com/Kamun2026/TwoSampleCalImpute
+BugReports: https://github.com/Kamun2026/TwoSampleCalImpute/issues
+NeedsCompilation: no
+Packaged: 2026-10-24 13:55:18 UTC; 3630
+Author: Samuel Joel Kamun [aut, cre]
+Maintainer: Samuel Joel Kamun <samuelkamun@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-11-08 16:50:27 UTC
